@@ -14,10 +14,14 @@ Steps to start:
 
 6)The output results are stored in output_result directory
 
-7) Test Images:
+7)The sample output is shown below,The Red line is showing the orientation of card.
+
+![Alt text](evaluation_matrics/sample.jpg?raw=true "Title")
+
+8) Test Images:
    https://drive.google.com/open?id=1118ip8v5WYhIcG3TI-lM0bMbhuP3s4_X
 
-8) Output results
+9) Output results
    https://drive.google.com/open?id=19uMfpbAb1Onb2PI7xISBsxZ16jlDFYVF
    
 
