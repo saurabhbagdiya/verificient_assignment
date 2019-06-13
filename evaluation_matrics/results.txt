@@ -1,0 +1,11 @@
+# AP and precision/recall per class
+97.59% = card AP 
+ 
+# mAP of all classes
+mAP = 97.59%
+
+# Number of ground-truth objects per class
+card: 400
+
+# Number of detected objects per class
+card: 451 (tp:395, fp:56)
